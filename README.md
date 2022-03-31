@@ -1,6 +1,8 @@
 # vcamp-edabit-javascript-find-number-of-digits-in-number
 
-Olá Bruno(ou não). Atualizamos a descrição do teste, poderias adicionar o seu nome e linkedin aqui na descrição?
+# Desafio completado por Bruno Silva Bartolomeu 
+
+# Linkedin: https://www.linkedin.com/in/bruno-silva-759603163/
 
 # EXPLICANDO A SOLUÇÃO
 
